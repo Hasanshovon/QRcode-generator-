@@ -11,5 +11,5 @@ This project is a Python script that generates QR codes for specified URLs. It u
 ### Dependencies
 
 - Requires Python 3.x.
-- `qrcode` and `PIL` libraries. Install with:
+- `qrcode` and `PIL` libraries.
 
